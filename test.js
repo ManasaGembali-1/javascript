@@ -50,7 +50,7 @@ fakerequestpromise('book1.com')
     console.log("success2",data)
     return fakerequestpromise('book3.com')
     .then((data)=>{
-    console.log("success3",data)
+    console.log("success3...............",data)
     
      })
      })
